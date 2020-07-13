@@ -4,7 +4,7 @@ consumer_key = 'masukan key twitter developer anda'
 consumer_secret = 'masukan scret twitter developer anda'
 print("#===============================================#")
 print("Program Crawling Twitter menggunakan Python")
-print("\t SAMBUDI TI.17.B.2")
+print("\t VERROL ATALLAH N TI.17.B.2")
 print("\t UNIVERSITAS PELITA BANGSA")
 print("#===============================================#")
 
